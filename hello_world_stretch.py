@@ -1,0 +1,7 @@
+print("Welcome to AI applications!")
+print("What is your name?")
+name = input()
+print("Hello, " + name.title() + "! Nice to meet you!")
+print("What is your favorite programming language?")
+language = input()
+print(language + " is a great language, " + name.title() + "!")
